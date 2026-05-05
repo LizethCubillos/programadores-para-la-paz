@@ -1,0 +1,10 @@
+Sinceramente, creo que usar herramientas como Git es súper importante porque nos quita un peso de encima 
+a los que estamos aprendiendo. Antes, uno vivía con el miedo de borrar algo por error y dañar todo el trabajo, 
+pero con Git uno se siente más seguro porque sabe que puede "devolverse en el tiempo" si algo sale mal. 
+Ya no hace falta estar creando carpetas y archivos con nombres raros como "copia de la tarea 1",
+ porque el historial hace todo ese trabajo por nosotros de forma organizada.
+También me parece clave porque hoy en día uno no trabaja solo; si estoy con mis compañeros, 
+Git nos ayuda a que cada uno haga su parte sin hacernos un nudo. Además, tener todo en la nube es una gran ventaja, 
+porque si a mi computador le pasa algo, yo sé que mi trabajo está guardado y seguro en internet. 
+En resumen, creo que es la mejor forma de trabajar ordenado, aprender de los errores y estar tranquilos 
+de que nada se va a perder.
